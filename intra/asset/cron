@@ -1,0 +1,6 @@
+#Les lignes suivantes sont gerees automatiquement via un script PHP. - Merci de ne pas editer manuellement
+# 1 : peer groupe script for dfg activity.
+00 00 28 06 * open http://localhost:8080/intra/peer/launch_group_peer/127
+# 2 : end script for dfg activity.
+00 00 29 06 * open http://localhost:8080/intra/peer/launch_mark_activity/127
+#Les lignes suivantes ne sont plus gerees automatiquement
